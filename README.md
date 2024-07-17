@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @zainmaken3
-- 👀 I’m interested in ... blockchain development 
+- 👋 Hi, I’m @zainjutt  a Blokchain developer having 4 years experience working as a CTO and CEO at GREENLAB A Leading Blockchain development Company
+- 👀 I’m interested in ... new crypto projects developments
 - 🌱 I’m currently learning ...crypto dev project launching and running
 - 💞️ I’m looking to collaborate on ... two token projects
 - 📫 How to reach me ...telegram greenlab786
 - 😄 Pronouns: ...learning daily 
-- ⚡ Fun fact: ... CEO  of GreenLab A Blockchain Development Com
+- ⚡ Fun fact: ... CEO  of GreenLab A Blockchain Development Company
 
 <!---
 zainmaken3/zainmaken3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
